@@ -1,0 +1,89 @@
+theme: hugoplate
+baseURL: /
+title: Hugoplate
+timeZone: America/New_York
+paginate: 2
+summaryLength: 10
+googleAnalytics: G-MEASUREMENT_ID
+disqusShortname: themefisher-template
+disableLanguages: []
+hasCJKLanguage: no
+permalinks:
+  page:
+    pages: /:slugorfilename/
+module:
+  mounts:
+    - source: assets
+      target: assets
+    - source: hugo_stats.json
+      target: assets/watching/hugo_stats.json
+build:
+  buildStats:
+    enable: yes
+  cachebusters:
+    - source: assets/.*\.(js|ts|jsx|tsx)
+      target: (js|scripts|javascript)
+    - source: assets/.*\.(css|sass|scss)$
+      target: (css|styles|scss|sass)
+    - source: (postcss|tailwind)\.config\.js
+      target: (css|styles|scss|sass)
+    - source: assets/.*\.(.*)$
+      target: $1
+  noJSConfigInAssets: no
+  useResourceCacheWhen: fallback
+outputs:
+  home:
+    - HTML
+    - RSS
+    - WebAppManifest
+    - SearchIndex
+imaging:
+  quality: 90
+  resampleFilter: lanczos
+caches:
+  assets:
+    dir: :resourceDir/_gen
+    maxAge: 720h
+  images:
+    dir: :resourceDir/_gen
+    maxAge: 720h
+markup:
+  goldmark:
+    renderer:
+      unsafe: yes
+  highlight:
+    style: monokai
+  tableOfContents:
+    endLevel: 5
+    ordered: yes
+    startLevel: 2
+mediaTypes:
+  application/manifest+json:
+    suffixes: webmanifest
+outputFormats:
+  SearchIndex:
+    baseName: searchindex
+    isPlainText: yes
+    mediaType: application/json
+    notAlternative: yes
+  WebAppManifest:
+    mediaType: application/manifest+json
+    rel: manifest
+params:
+  plugins:
+    css:
+      - link: plugins/swiper/swiper-bundle.css
+      - link: plugins/glightbox/glightbox.css
+      - link: plugins/font-awesome/v6/brands.css
+      - link: plugins/font-awesome/v6/solid.css
+      - link: plugins/font-awesome/v6/icons.css
+    js:
+      - link: js/search.js
+      - link: plugins/swiper/swiper-bundle.js
+      - link: plugins/glightbox/glightbox.js
+      - link: js/gallery-slider.js
+      - link: js/accordion.js
+      - link: js/tab.js
+      - link: js/modal.js
+      - link: plugins/cookie.js
+      - link: plugins/youtube-lite.js
