@@ -14,7 +14,7 @@ params:
   math: true
   katex: true
   author: Joel Burbano
-  avatarURL: images/avatar.jpg
+  avatarURL: images/joeb.jpg
   colorScheme: auto
   commit: https://github.com/luizdepra/hugo-coder/tree/
   customCSS: []
