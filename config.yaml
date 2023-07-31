@@ -1,7 +1,7 @@
 baseURL: http://www.example.com
 title: Joel Burbano
 theme: hugo-coder
-publishDir: docs
+
 languageCode: es
 defaultContentLanguage: es
 paginate: 20
@@ -10,6 +10,7 @@ markup:
   highlight:
     noClasses: no
 params:
+  publishDir: docs
   math: true
   katex: true
   author: Joel Burbano
