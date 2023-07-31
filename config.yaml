@@ -1,6 +1,7 @@
 baseURL: http://www.example.com
 title: Joel Burbano
 theme: hugo-coder
+publishDir: docs
 languageCode: es
 defaultContentLanguage: es
 paginate: 20
