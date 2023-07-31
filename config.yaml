@@ -9,8 +9,8 @@ enableEmoji: yes
 markup:
   highlight:
     noClasses: no
+publisDir: "docs"
 params:
-  publishDir: docs
   math: true
   katex: true
   author: Joel Burbano
