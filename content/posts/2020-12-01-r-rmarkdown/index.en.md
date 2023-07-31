@@ -1,9 +1,15 @@
 ---
 title: "Hello R Markdown"
 author: "Frida Gomam"
-date: 2020-12-01T21:13:14-05:00
-categories: ["R"]
-tags: ["R Markdown", "plot", "regression"]
+date: "2020-12-01T21:13:14-05:00"
+output:
+  word_document: default
+  pdf_document: default
+tags:
+- R Markdown
+- plot
+- regression
+categories: R
 ---
 
 
@@ -36,8 +42,9 @@ fit
 ```
 
 # Including Plots
+You can also embed plots. See Figure <a href="#fig:pie">1</a> for example \(\sigma:\alpha_i*\beta^i\):
 
-You can also embed plots. See Figure <a href="#fig:pie">1</a> for example:
+\[\sigma_1 \Sigma_2  \varsigma_3 \varSigma_4 \]
 
 
 ```r

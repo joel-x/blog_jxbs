@@ -1,16 +1,18 @@
 baseURL: http://www.example.com
 title: Joel Burbano
 theme: hugo-coder
-languageCode: en
-defaultContentLanguage: en 
+languageCode: es
+defaultContentLanguage: es
 paginate: 20
 enableEmoji: yes
 markup:
   highlight:
     noClasses: no
 params:
+  math: true
+  katex: true
   author: Joel Burbano
-  avatarURL: images/joeb.jpg
+  avatarURL: images/avatar.jpg
   colorScheme: auto
   commit: https://github.com/luizdepra/hugo-coder/tree/
   customCSS: []
@@ -18,47 +20,52 @@ params:
   customRemoteJS: []
   customSCSS: []
   dateFormat: January 2, 2006
-  description: Joel's personal site
+  description: John Doe's personal website
   hideColorSchemeToggle: no
   info:
-    - Mathematical Engineer
-    - Data Scientist
-    - Statistical
-  keywords: blog
+    - Ingeniero Matematico
+    - Estadístico
+    - Análista de Datos
+    - Cientifico de Datos
+  keywords: blog,developer,personal
   maxSeeAlsoItems: 5
   rtl: no
-  since: 
+  since: 2019
   social:
     - icon: fa fa-2x fa-github
       name: Github
-      url: 
+      url: https://github.com/johndoe/
       weight: 1
+    - icon: fa fa-2x fa-gitlab
+      name: Gitlab
+      url: https://gitlab.com/johndoe/
+      weight: 2
+    - icon: fa fa-2x fa-twitter
+      name: Twitter
+      url: https://twitter.com/johndoe/
+      weight: 3
     - icon: fa fa-2x fa-linkedin
       name: LinkedIn
-      url: https://www.linkedin.com/in/joel-burbano-849120230/
+      url: https://www.linkedin.com/in/johndoe/
       weight: 4
-    # - icon: fa fa-2x fa-medium
-    #   name: Medium
-    #   url: https://medium.com/@johndoe
-    #   weight: 5
-    # 
-    - icon: fa fa-2x fa-whatsapp
-      name: WhatsApp
-      url: https://wa.me/593997868351
+    - icon: fa fa-2x fa-medium
+      name: Medium
+      url: https://medium.com/@johndoe
+      weight: 5
+    - icon: fa fa-2x fa-rss
+      name: RSS
+      rel: alternate
+      type: application/rss+xml
+      url: https://myhugosite.com/index.xml
       weight: 6
-    - icon: fa fa-2x fa-envelope
-      name: Correo
-      mailto: joelburbano@outlook.com
-      weight: 6
-    
 taxonomies:
   author: authors
   category: categories
   series: series
   tag: tags
 languages:
-  en:
-    languageName: ':us:'
+  es:
+    languageName: ':es:'
     menu:
       main:
         - name: About
@@ -73,28 +80,25 @@ languages:
         - name: Contact me
           url: contact/
           weight: 5
-  es:
-    languageName: ':es:'
+  pt-br:
+    languageName: ':brazil:'
     menu:
       main:
-        - name: Acerca de
+        - name: Sobre
           url: about/
           weight: 1
         - name: Blog
           url: posts/
           weight: 2
-        - name: Proyectos
+        - name: Projetos
           url: projects/
           weight: 3
         - name: Contato
           url: contact/
           weight: 5
     params:
-      author: Joel Burbano
-      description: Sitio personal de Joel Burbano
-      info: 
-        - Ingeniero Matemático
-        - Cientifico de Datos
-        - Estadístico
-      keywords: blog
-    title: Joel Burbano
+      author: João Ninguém
+      description: Sítio pessoal de João Ninguém
+      info: Full Stack DevOps e Mágico
+      keywords: blog,desenvolvedor,pessoal
+    title: João Ninguém
