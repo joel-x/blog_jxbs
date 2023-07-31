@@ -9,7 +9,7 @@ enableEmoji: yes
 markup:
   highlight:
     noClasses: no
-publisDir: "docs"
+publisDir: docs
 params:
   math: true
   katex: true
