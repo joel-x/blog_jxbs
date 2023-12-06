@@ -3,26 +3,17 @@ aliases:
 - about-us
 - about-hugo
 - contact
-author: Hugo Authors
+author: Joel Burbano
 date: "2019-02-28"
-description: Hugo, the world's fastest framework for building websites
-title: About
+description: Presentación Joel Burbano
+title: Acerca de
 ---
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
 
-Hugo makes use of a variety of open source projects including:
+👋 ¡Hola! Soy Joel, graduado en Ingeniería Matemática en la Facultad de Ciencias de la Escuela Politécnica Nacional.
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+🎓 Durante mi etapa universitaria he adquirido las bases para gestionar modelos de riesgo, modelos econométricos, modelos estadísticos, modelos de programación entera. Así también, he adquirido las bases de matemática actuarial, estadística matemática, investigación operativa. Además, me he capacitado en el manejo de lenguajes de programación tales como: C++, Matlab, R, Python, y también manejo de paquetes estadísticos Statgraphics y Gretl.
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+📝 El desarrollo de mi trabajo de titulación se enfoca en desarrollar un modelo de consumo a partir de la Hipótesis de Renta Permanente de Friedman (Novel Economia,1976) y El Ciclo de Vida de Modigliani. 
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
-
-Websites built with Hugo are extremely fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+🎯Mi objetivo es seguir desarrollando mis habilidades en el área estadística, econométrica, actuarial y ciencia de datos, por lo que me encuentro altamente interesado en trabajar en las mencionadas áreas.

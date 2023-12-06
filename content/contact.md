@@ -3,4 +3,6 @@ slug: contact
 title: Contact
 ---
 
-Follow me, @johndoe.
+Contactame:
+
+Correo: joelburbano@outlook.com
