@@ -25,5 +25,14 @@
       <description></description>
     </item>
     
+    <item>
+      <title>R</title>
+      <link>http://www.example.com/categories/r/</link>
+      <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
+      
+      <guid>http://www.example.com/categories/r/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

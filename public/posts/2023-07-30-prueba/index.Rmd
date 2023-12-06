@@ -1,14 +1,17 @@
 ---
-title: Estadística Descriptiva
-author: Joel Burbano
-date: '2023-07-30'
-slug: []
+title: "Estadística Descriptiva"
+author: "Joel Burbano"
+date: "2023-07-30"
+output:
+  html_document:
+    df_print: paged
 categories: []
 tags: []
 authors: []
 description: ''
 externalLink: ''
 series: []
+slug: []
 ---
 
 ```{r setup, include=FALSE}

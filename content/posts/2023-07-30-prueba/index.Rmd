@@ -1,14 +1,17 @@
 ---
-title: Estadística Descriptiva
-author: Joel Burbano
-date: '2023-07-30'
-slug: []
+title: "Estadística Descriptiva"
+author: "Joel Burbano"
+date: "2023-07-30"
+output:
+  html_document:
+    df_print: paged
 categories: []
 tags: []
 authors: []
 description: ''
 externalLink: ''
 series: []
+slug: []
 ---
 
 ```{r setup, include=FALSE}
@@ -21,7 +24,6 @@ use_python("C:\\Users\\JXBS\\AppData\\Local\\Programs\\Python\\Python312\\python
 
 La estadística descriptiva nos permite realizar el análisis exploratorio de la información y el pre-procesamiento de la información antes de tener un modelo de machine learning.
 
-
 ```{python}
 import pandas as pd
 ```
@@ -30,6 +32,3 @@ import pandas as pd
 df = pd.read_csv("cars.csv")
 df.head()
 ```
-
-
-
