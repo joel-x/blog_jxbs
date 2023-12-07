@@ -2,72 +2,72 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Joel Burbano</title>
-    <link>http://www.example.com/</link>
+    <link>https://joel-x.github.io/blog_jxbs/</link>
     <description>Recent content on Joel Burbano</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Wed, 06 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://www.example.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 06 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://joel-x.github.io/blog_jxbs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Power BI</title>
-      <link>http://www.example.com/post/2023-12-06-power-bi/</link>
+      <link>https://joel-x.github.io/blog_jxbs/post/2023-12-06-power-bi/</link>
       <pubDate>Wed, 06 Dec 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.com/post/2023-12-06-power-bi/</guid>
+      <guid>https://joel-x.github.io/blog_jxbs/post/2023-12-06-power-bi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Power BI</title>
-      <link>http://www.example.com/posts/2023-12-06-power-bi/</link>
+      <link>https://joel-x.github.io/blog_jxbs/posts/2023-12-06-power-bi/</link>
       <pubDate>Wed, 06 Dec 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.com/posts/2023-12-06-power-bi/</guid>
+      <guid>https://joel-x.github.io/blog_jxbs/posts/2023-12-06-power-bi/</guid>
       <description>Pruebas para publicar power bi</description>
     </item>
     
     <item>
       <title>Estadística Descriptiva</title>
-      <link>http://www.example.com/posts/2023-07-30-prueba/</link>
+      <link>https://joel-x.github.io/blog_jxbs/posts/2023-07-30-prueba/</link>
       <pubDate>Sun, 30 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.com/posts/2023-07-30-prueba/</guid>
+      <guid>https://joel-x.github.io/blog_jxbs/posts/2023-07-30-prueba/</guid>
       <description>La estadística descriptiva nos permite realizar el análisis exploratorio de la información y el pre-procesamiento de la información antes de tener un modelo de machine learning.
 import pandas as pddf = pd.read_csv(&amp;quot;cars.csv&amp;quot;)df.head()speed dist0 4 21 4 102 7 43 7 224 8 16</description>
     </item>
     
     <item>
       <title>temas</title>
-      <link>http://www.example.com/categoria/temas/</link>
+      <link>https://joel-x.github.io/blog_jxbs/categoria/temas/</link>
       <pubDate>Wed, 04 Jan 2023 23:21:18 +0100</pubDate>
       
-      <guid>http://www.example.com/categoria/temas/</guid>
+      <guid>https://joel-x.github.io/blog_jxbs/categoria/temas/</guid>
       <description></description>
     </item>
     
     <item>
       <title>sintaxe</title>
-      <link>http://www.example.com/categoria/sintaxe/</link>
+      <link>https://joel-x.github.io/blog_jxbs/categoria/sintaxe/</link>
       <pubDate>Wed, 04 Jan 2023 23:21:06 +0100</pubDate>
       
-      <guid>http://www.example.com/categoria/sintaxe/</guid>
+      <guid>https://joel-x.github.io/blog_jxbs/categoria/sintaxe/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Códigos curtos</title>
-      <link>http://www.example.com/tags/shortcodes/_index.pt-br/</link>
+      <link>https://joel-x.github.io/blog_jxbs/tags/shortcodes/_index.pt-br/</link>
       <pubDate>Wed, 04 Jan 2023 11:51:36 +0100</pubDate>
       
-      <guid>http://www.example.com/tags/shortcodes/_index.pt-br/</guid>
+      <guid>https://joel-x.github.io/blog_jxbs/tags/shortcodes/_index.pt-br/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hello R Markdown</title>
-      <link>http://www.example.com/posts/2020-12-01-r-rmarkdown/</link>
+      <link>https://joel-x.github.io/blog_jxbs/posts/2020-12-01-r-rmarkdown/</link>
       <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
       
-      <guid>http://www.example.com/posts/2020-12-01-r-rmarkdown/</guid>
+      <guid>https://joel-x.github.io/blog_jxbs/posts/2020-12-01-r-rmarkdown/</guid>
       <description>R MarkdownThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
 You can embed an R code chunk like this:
 summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
@@ -75,30 +75,30 @@ summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 2
     
     <item>
       <title>Acerca de</title>
-      <link>http://www.example.com/about/</link>
+      <link>https://joel-x.github.io/blog_jxbs/about/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.com/about/</guid>
+      <guid>https://joel-x.github.io/blog_jxbs/about/</guid>
       <description>👋 ¡Hola! Soy Joel, graduado en Ingeniería Matemática en la Facultad de Ciencias de la Escuela Politécnica Nacional.
 🎓 Durante mi etapa universitaria he adquirido las bases para gestionar modelos de riesgo, modelos econométricos, modelos estadísticos, modelos de programación entera. Así también, he adquirido las bases de matemática actuarial, estadística matemática, investigación operativa. Además, me he capacitado en el manejo de lenguajes de programación tales como: C++, Matlab, R, Python, y también manejo de paquetes estadísticos Statgraphics y Gretl.</description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>http://www.example.com/contact/</link>
+      <link>https://joel-x.github.io/blog_jxbs/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.com/contact/</guid>
+      <guid>https://joel-x.github.io/blog_jxbs/contact/</guid>
       <description>Contactame:
 Correo: joelburbano@outlook.com</description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>http://www.example.com/projects/</link>
+      <link>https://joel-x.github.io/blog_jxbs/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.com/projects/</guid>
+      <guid>https://joel-x.github.io/blog_jxbs/projects/</guid>
       <description>Nothing to see here&amp;hellip; Move along!</description>
     </item>
     

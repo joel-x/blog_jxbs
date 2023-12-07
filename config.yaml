@@ -1,4 +1,4 @@
-baseURL: http://www.example.com
+baseURL: https://joel-x.github.io/blog_jxbs/
 publishDir: docs
 title: Joel Burbano
 theme: hugo-coder
@@ -11,12 +11,12 @@ markup:
   highlight:
     noClasses: no
 params:
-  #clearReading: false
-  #sidebarBehavior: 1
+  clearReading: false
+  sidebarBehavior: 1
   math: true
   katex: true
   author: Joel Burbano
-  avatarURL: images/joeb.jpg
+  avatarURL: docs/images/joeb.jpg
   colorScheme: auto
   commit: 
   customCSS: []
