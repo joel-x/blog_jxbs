@@ -2,36 +2,36 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Joel Burbano</title>
-    <link>https://joel-x.github.io/blog_jxbs/us/</link>
+    <link>/us/</link>
     <description>Recent content on Joel Burbano</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>us</language><atom:link href="https://joel-x.github.io/blog_jxbs/us/index.xml" rel="self" type="application/rss+xml" />
+    <language>us</language><atom:link href="/us/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>https://joel-x.github.io/blog_jxbs/us/about/</link>
+      <link>/us/about/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://joel-x.github.io/blog_jxbs/us/about/</guid>
+      <guid>/us/about/</guid>
       <description>👋 Hi, I&amp;rsquo;m Joel, graduated in Mathematical Engineering at the Faculty of Sciences of the National Polytechnic School.
 🎓 During my university stage I have acquired the bases to manage risk models, econometric models, statistical models, integer programming models. I have also acquired the basics of actuarial mathematics, mathematical statistics, operations research. In addition, I have been trained in the use of programming languages such as: C++, Matlab, R, Python, and also in the use of statistical packages Statgraphics and Gretl.</description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://joel-x.github.io/blog_jxbs/us/contact/</link>
+      <link>/us/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://joel-x.github.io/blog_jxbs/us/contact/</guid>
+      <guid>/us/contact/</guid>
       <description>Contact me:
 Email: joelburbano@outlook.com</description>
     </item>
     
     <item>
       <title>Projetos</title>
-      <link>https://joel-x.github.io/blog_jxbs/us/projects/</link>
+      <link>/us/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://joel-x.github.io/blog_jxbs/us/projects/</guid>
+      <guid>/us/projects/</guid>
       <description>Nada para ver aqui.. Circulando!</description>
     </item>
     

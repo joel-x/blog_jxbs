@@ -2,101 +2,101 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://joel-x.github.io/blog_jxbs/us/about/</loc>
+    <loc>/us/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://joel-x.github.io/blog_jxbs/about/"
+                href="/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="us"
-                href="https://joel-x.github.io/blog_jxbs/us/about/"
+                href="/us/about/"
                 />
   </url><url>
-    <loc>https://joel-x.github.io/blog_jxbs/us/authors/</loc>
+    <loc>/us/authors/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://joel-x.github.io/blog_jxbs/authors/"
+                href="/authors/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="us"
-                href="https://joel-x.github.io/blog_jxbs/us/authors/"
+                href="/us/authors/"
                 />
   </url><url>
-    <loc>https://joel-x.github.io/blog_jxbs/us/categories/</loc>
+    <loc>/us/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://joel-x.github.io/blog_jxbs/categories/"
+                href="/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="us"
-                href="https://joel-x.github.io/blog_jxbs/us/categories/"
+                href="/us/categories/"
                 />
   </url><url>
-    <loc>https://joel-x.github.io/blog_jxbs/us/contact/</loc>
+    <loc>/us/contact/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://joel-x.github.io/blog_jxbs/contact/"
+                href="/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="us"
-                href="https://joel-x.github.io/blog_jxbs/us/contact/"
+                href="/us/contact/"
                 />
   </url><url>
-    <loc>https://joel-x.github.io/blog_jxbs/us/</loc>
+    <loc>/us/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://joel-x.github.io/blog_jxbs/"
+                href="/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="us"
-                href="https://joel-x.github.io/blog_jxbs/us/"
+                href="/us/"
                 />
   </url><url>
-    <loc>https://joel-x.github.io/blog_jxbs/us/projects/</loc>
+    <loc>/us/projects/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://joel-x.github.io/blog_jxbs/projects/"
+                href="/projects/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="us"
-                href="https://joel-x.github.io/blog_jxbs/us/projects/"
+                href="/us/projects/"
                 />
   </url><url>
-    <loc>https://joel-x.github.io/blog_jxbs/us/series/</loc>
+    <loc>/us/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://joel-x.github.io/blog_jxbs/series/"
+                href="/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="us"
-                href="https://joel-x.github.io/blog_jxbs/us/series/"
+                href="/us/series/"
                 />
   </url><url>
-    <loc>https://joel-x.github.io/blog_jxbs/us/tags/</loc>
+    <loc>/us/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://joel-x.github.io/blog_jxbs/tags/"
+                href="/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="us"
-                href="https://joel-x.github.io/blog_jxbs/us/tags/"
+                href="/us/tags/"
                 />
   </url>
 </urlset>

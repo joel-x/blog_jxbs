@@ -2,53 +2,62 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Joel Burbano</title>
-    <link>https://joel-x.github.io/blog_jxbs/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on Joel Burbano</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Wed, 06 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://joel-x.github.io/blog_jxbs/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 07 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Python</title>
+      <link>/tags/python/</link>
+      <pubDate>Thu, 07 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/python/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>BI</title>
-      <link>https://joel-x.github.io/blog_jxbs/tags/bi/</link>
+      <link>/tags/bi/</link>
       <pubDate>Wed, 06 Dec 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://joel-x.github.io/blog_jxbs/tags/bi/</guid>
+      <guid>/tags/bi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Códigos curtos</title>
-      <link>https://joel-x.github.io/blog_jxbs/tags/shortcodes/_index.pt-br/</link>
+      <link>/tags/shortcodes/_index.pt-br/</link>
       <pubDate>Wed, 04 Jan 2023 11:51:36 +0100</pubDate>
       
-      <guid>https://joel-x.github.io/blog_jxbs/tags/shortcodes/_index.pt-br/</guid>
+      <guid>/tags/shortcodes/_index.pt-br/</guid>
       <description></description>
     </item>
     
     <item>
       <title>plot</title>
-      <link>https://joel-x.github.io/blog_jxbs/tags/plot/</link>
+      <link>/tags/plot/</link>
       <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
       
-      <guid>https://joel-x.github.io/blog_jxbs/tags/plot/</guid>
+      <guid>/tags/plot/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R Markdown</title>
-      <link>https://joel-x.github.io/blog_jxbs/tags/r-markdown/</link>
+      <link>/tags/r-markdown/</link>
       <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
       
-      <guid>https://joel-x.github.io/blog_jxbs/tags/r-markdown/</guid>
+      <guid>/tags/r-markdown/</guid>
       <description></description>
     </item>
     
     <item>
       <title>regression</title>
-      <link>https://joel-x.github.io/blog_jxbs/tags/regression/</link>
+      <link>/tags/regression/</link>
       <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
       
-      <guid>https://joel-x.github.io/blog_jxbs/tags/regression/</guid>
+      <guid>/tags/regression/</guid>
       <description></description>
     </item>
     

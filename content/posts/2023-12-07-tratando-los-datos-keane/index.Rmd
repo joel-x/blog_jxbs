@@ -1,0 +1,63 @@
+---
+title: Tratando los datos Keane
+author: ''
+date: '2023-12-07'
+slug: []
+categories: [Econometría]
+tags: [Python]
+authors: []
+description: ''
+externalLink: ''
+series: []
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE,error = F, message = F, warning = F,comment = "") #c. habitual
+xaringanExtra::use_clipboard()
+library(prettydoc) #Paquete de tema favorito
+library(reticulate) #Paquete de python en R
+use_python("C:\\Users\\JXBS\\AppData\\Local\\Programs\\Python\\Python312\\python.exe")
+```
+
+En este post abordaremos un poco los datos keane obtenidos de `Gretl`
+
+Empezaremos por importar las librerias necesarias 
+
+```{python}
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt 
+import seaborn as sb
+from scipy import stats
+
+```
+
+A continuación nos disponemos a visualizar los datos 
+
+```{python}
+keane=pd.read_csv("keane.csv")
+
+```
+
+```{r}
+head(py$keane)
+```
+
+
+Crearemos etiquetas para las observaciones de acuerdo a "choice" estudiante=1, hogar=2, cualificado=3, no-cualificado=4, servicio=5 
+
+
+```{python echo=FALSE}
+keane["choice"]=np.where(keane["choice"]==1,"estudiante",
+         np.where(keane["choice"]==2,"hogar",
+                  np.where(keane["choice"]==3,"cualificado",
+                           np.where(keane["choice"]==4,"no-cualificado","servicio"))))
+```
+
+Procedemos a gráficar la evolución de salarios separado por color de piel 
+
+```{python echo=FALSE}
+sb.scatterplot(data=keane,x="year",y="wage",hue="black")
+```
+
+En esta grafica evidenciamos que ha aumentado la discriminación

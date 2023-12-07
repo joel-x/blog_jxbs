@@ -1,4 +1,4 @@
-baseURL: https://joel-x.github.io/blog_jxbs/
+baseURL: 
 publishDir: docs
 title: Joel Burbano
 theme: hugo-coder
@@ -29,7 +29,7 @@ params:
   info:
     - Ingeniero Matemático
     - Análista de Datos
-    - Cientifico de Datos
+    - Científico de Datos
     - Estadístico
   keywords: blog personal
   maxSeeAlsoItems: 5

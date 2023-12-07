@@ -2,72 +2,84 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Joel Burbano</title>
-    <link>https://joel-x.github.io/blog_jxbs/</link>
+    <link>/</link>
     <description>Recent content on Joel Burbano</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Wed, 06 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://joel-x.github.io/blog_jxbs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 07 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tratando los datos Keane</title>
+      <link>/posts/2023-12-07-tratando-los-datos-keane/</link>
+      <pubDate>Thu, 07 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/2023-12-07-tratando-los-datos-keane/</guid>
+      <description>En este post abordaremos un poco los datos keane obtenidos de Gretl
+Empezaremos por importar las librerias necesarias
+import numpy as npimport pandas as pdimport matplotlib.pyplot as plt import seaborn as sbfrom scipy import statsA continuación nos disponemos a visualizar los datos
+keane=pd.read_csv(&amp;quot;keane.csv&amp;quot;)head(py$keane)id numyrs year choice wage educ expwc expbc expser manuf black lwage enroll1 1 9 81 2 NaN 10 0 0 0 0 1 NaN 02 1 9 82 2 NaN 10 0 0 0 0 1 NaN 03 1 9 83 2 NaN 10 0 0 0 0 1 NaN 04 1 9 84 1 NaN 10 0 0 0 0 1 NaN 15 1 9 85 2 NaN 11 0 0 0 0 1 NaN 06 1 9 86 2 NaN 11 0 0 0 0 1 NaN 0employ attrit exper expersq status1 0 0 0 0 22 0 0 0 0 23 0 0 0 0 24 0 0 0 0 15 0 0 0 0 26 0 0 0 0 2Crearemos etiquetas para las observaciones de acuerdo a “choice” estudiante=1, hogar=2, cualificado=3, no-cualificado=4, servicio=5</description>
+    </item>
+    
     <item>
       <title>Power BI</title>
-      <link>https://joel-x.github.io/blog_jxbs/post/2023-12-06-power-bi/</link>
+      <link>/post/2023-12-06-power-bi/</link>
       <pubDate>Wed, 06 Dec 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://joel-x.github.io/blog_jxbs/post/2023-12-06-power-bi/</guid>
+      <guid>/post/2023-12-06-power-bi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Power BI</title>
-      <link>https://joel-x.github.io/blog_jxbs/posts/2023-12-06-power-bi/</link>
+      <link>/posts/2023-12-06-power-bi/</link>
       <pubDate>Wed, 06 Dec 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://joel-x.github.io/blog_jxbs/posts/2023-12-06-power-bi/</guid>
+      <guid>/posts/2023-12-06-power-bi/</guid>
       <description>Pruebas para publicar power bi</description>
     </item>
     
     <item>
       <title>Estadística Descriptiva</title>
-      <link>https://joel-x.github.io/blog_jxbs/posts/2023-07-30-prueba/</link>
+      <link>/posts/2023-07-30-prueba/</link>
       <pubDate>Sun, 30 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://joel-x.github.io/blog_jxbs/posts/2023-07-30-prueba/</guid>
+      <guid>/posts/2023-07-30-prueba/</guid>
       <description>La estadística descriptiva nos permite realizar el análisis exploratorio de la información y el pre-procesamiento de la información antes de tener un modelo de machine learning.
 import pandas as pddf = pd.read_csv(&amp;quot;cars.csv&amp;quot;)df.head()speed dist0 4 21 4 102 7 43 7 224 8 16</description>
     </item>
     
     <item>
       <title>temas</title>
-      <link>https://joel-x.github.io/blog_jxbs/categoria/temas/</link>
+      <link>/categoria/temas/</link>
       <pubDate>Wed, 04 Jan 2023 23:21:18 +0100</pubDate>
       
-      <guid>https://joel-x.github.io/blog_jxbs/categoria/temas/</guid>
+      <guid>/categoria/temas/</guid>
       <description></description>
     </item>
     
     <item>
       <title>sintaxe</title>
-      <link>https://joel-x.github.io/blog_jxbs/categoria/sintaxe/</link>
+      <link>/categoria/sintaxe/</link>
       <pubDate>Wed, 04 Jan 2023 23:21:06 +0100</pubDate>
       
-      <guid>https://joel-x.github.io/blog_jxbs/categoria/sintaxe/</guid>
+      <guid>/categoria/sintaxe/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Códigos curtos</title>
-      <link>https://joel-x.github.io/blog_jxbs/tags/shortcodes/_index.pt-br/</link>
+      <link>/tags/shortcodes/_index.pt-br/</link>
       <pubDate>Wed, 04 Jan 2023 11:51:36 +0100</pubDate>
       
-      <guid>https://joel-x.github.io/blog_jxbs/tags/shortcodes/_index.pt-br/</guid>
+      <guid>/tags/shortcodes/_index.pt-br/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hello R Markdown</title>
-      <link>https://joel-x.github.io/blog_jxbs/posts/2020-12-01-r-rmarkdown/</link>
+      <link>/posts/2020-12-01-r-rmarkdown/</link>
       <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
       
-      <guid>https://joel-x.github.io/blog_jxbs/posts/2020-12-01-r-rmarkdown/</guid>
+      <guid>/posts/2020-12-01-r-rmarkdown/</guid>
       <description>R MarkdownThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
 You can embed an R code chunk like this:
 summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
@@ -75,30 +87,30 @@ summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 2
     
     <item>
       <title>Acerca de</title>
-      <link>https://joel-x.github.io/blog_jxbs/about/</link>
+      <link>/about/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://joel-x.github.io/blog_jxbs/about/</guid>
+      <guid>/about/</guid>
       <description>👋 ¡Hola! Soy Joel, graduado en Ingeniería Matemática en la Facultad de Ciencias de la Escuela Politécnica Nacional.
 🎓 Durante mi etapa universitaria he adquirido las bases para gestionar modelos de riesgo, modelos econométricos, modelos estadísticos, modelos de programación entera. Así también, he adquirido las bases de matemática actuarial, estadística matemática, investigación operativa. Además, me he capacitado en el manejo de lenguajes de programación tales como: C++, Matlab, R, Python, y también manejo de paquetes estadísticos Statgraphics y Gretl.</description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://joel-x.github.io/blog_jxbs/contact/</link>
+      <link>/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://joel-x.github.io/blog_jxbs/contact/</guid>
+      <guid>/contact/</guid>
       <description>Contactame:
 Correo: joelburbano@outlook.com</description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>https://joel-x.github.io/blog_jxbs/projects/</link>
+      <link>/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://joel-x.github.io/blog_jxbs/projects/</guid>
+      <guid>/projects/</guid>
       <description>Nothing to see here&amp;hellip; Move along!</description>
     </item>
     
