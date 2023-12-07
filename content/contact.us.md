@@ -1,6 +1,6 @@
 ---
 slug: contact
-title: Contato
+title: Contact
 ---
 
 Contact me:

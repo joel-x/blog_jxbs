@@ -1,14 +1,34 @@
 ---
-title: Prueba
-author: J B
-date: '2023-07-30'
-slug: []
+title: "Estadística Descriptiva"
+author: "Joel Burbano"
+date: "2023-07-30"
+output:
+  html_document:
+    df_print: paged
 categories: []
 tags: []
 authors: []
 description: ''
 externalLink: ''
 series: []
+slug: []
 ---
-Prueba de l funcionamiento de latex \\(\alpha_1 +\beta_1=\gamma_1\\)
-\\[\alpha(\beta):= \beta^2+2 \\]
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE,error = F, message = F, warning = F,comment = "") #c. habitual
+xaringanExtra::use_clipboard()
+library(prettydoc) #Paquete de tema favorito
+library(reticulate) #Paquete de python en R
+use_python("C:\\Users\\JXBS\\AppData\\Local\\Programs\\Python\\Python312\\python.exe")
+```
+
+La estadística descriptiva nos permite realizar el análisis exploratorio de la información y el pre-procesamiento de la información antes de tener un modelo de machine learning.
+
+```{python}
+import pandas as pd
+```
+
+```{python}
+df = pd.read_csv("cars.csv")
+df.head()
+```
