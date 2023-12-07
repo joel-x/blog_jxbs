@@ -12,7 +12,7 @@ markup:
     noClasses: no
 params:
   #clearReading: false
-  sidebarBehavior: 1
+  #sidebarBehavior: 1
   math: true
   katex: true
   author: Joel Burbano
