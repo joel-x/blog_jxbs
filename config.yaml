@@ -16,7 +16,7 @@ params:
   math: true
   katex: true
   author: Joel Burbano
-  avatarURL: docs/images/joeb.jpg
+  avatarURL: images/joeb.jpg
   colorScheme: auto
   commit: 
   customCSS: []
