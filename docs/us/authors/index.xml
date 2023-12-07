@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on Joel Burbano</title>
-    <link>/us/authors/</link>
+    <link>https://joel-x.github.io/blog_jxbs/us/authors/</link>
     <description>Recent content in Authors on Joel Burbano</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>us</language><atom:link href="/us/authors/index.xml" rel="self" type="application/rss+xml" />
+    <language>us</language><atom:link href="https://joel-x.github.io/blog_jxbs/us/authors/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

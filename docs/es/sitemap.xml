@@ -2,159 +2,159 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/categories/</loc>
+    <loc>https://joel-x.github.io/blog_jxbs/categories/</loc>
     <lastmod>2023-12-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="us"
-                href="/us/categories/"
+                href="https://joel-x.github.io/blog_jxbs/us/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/categories/"
+                href="https://joel-x.github.io/blog_jxbs/categories/"
                 />
   </url><url>
-    <loc>/categories/econometr%C3%ADa/</loc>
+    <loc>https://joel-x.github.io/blog_jxbs/categories/econometr%C3%ADa/</loc>
     <lastmod>2023-12-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/</loc>
+    <loc>https://joel-x.github.io/blog_jxbs/</loc>
     <lastmod>2023-12-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="us"
-                href="/us/"
+                href="https://joel-x.github.io/blog_jxbs/us/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/"
+                href="https://joel-x.github.io/blog_jxbs/"
                 />
   </url><url>
-    <loc>/posts/</loc>
+    <loc>https://joel-x.github.io/blog_jxbs/posts/</loc>
     <lastmod>2023-12-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/python/</loc>
+    <loc>https://joel-x.github.io/blog_jxbs/tags/python/</loc>
     <lastmod>2023-12-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>https://joel-x.github.io/blog_jxbs/tags/</loc>
     <lastmod>2023-12-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="us"
-                href="/us/tags/"
+                href="https://joel-x.github.io/blog_jxbs/us/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/tags/"
+                href="https://joel-x.github.io/blog_jxbs/tags/"
                 />
   </url><url>
-    <loc>/posts/2023-12-07-tratando-los-datos-keane/</loc>
+    <loc>https://joel-x.github.io/blog_jxbs/posts/2023-12-07-tratando-los-datos-keane/</loc>
     <lastmod>2023-12-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/bi/</loc>
+    <loc>https://joel-x.github.io/blog_jxbs/tags/bi/</loc>
     <lastmod>2023-12-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/</loc>
+    <loc>https://joel-x.github.io/blog_jxbs/post/</loc>
     <lastmod>2023-12-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/2023-12-06-power-bi/</loc>
+    <loc>https://joel-x.github.io/blog_jxbs/post/2023-12-06-power-bi/</loc>
     <lastmod>2023-12-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/2023-12-06-power-bi/</loc>
+    <loc>https://joel-x.github.io/blog_jxbs/posts/2023-12-06-power-bi/</loc>
     <lastmod>2023-12-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/2023-07-30-prueba/</loc>
+    <loc>https://joel-x.github.io/blog_jxbs/posts/2023-07-30-prueba/</loc>
     <lastmod>2023-07-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/authors/</loc>
+    <loc>https://joel-x.github.io/blog_jxbs/authors/</loc>
     <lastmod>2023-01-05T01:15:29+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="us"
-                href="/us/authors/"
+                href="https://joel-x.github.io/blog_jxbs/us/authors/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/authors/"
+                href="https://joel-x.github.io/blog_jxbs/authors/"
                 />
   </url><url>
-    <loc>/authors/hugo-authors/</loc>
+    <loc>https://joel-x.github.io/blog_jxbs/authors/hugo-authors/</loc>
     <lastmod>2023-01-05T01:15:29+01:00</lastmod>
   </url><url>
-    <loc>/categoria/temas/</loc>
+    <loc>https://joel-x.github.io/blog_jxbs/categoria/temas/</loc>
     <lastmod>2023-01-04T23:21:18+01:00</lastmod>
   </url><url>
-    <loc>/categoria/sintaxe/</loc>
+    <loc>https://joel-x.github.io/blog_jxbs/categoria/sintaxe/</loc>
     <lastmod>2023-01-04T23:21:06+01:00</lastmod>
   </url><url>
-    <loc>/tags/shortcodes/_index.pt-br/</loc>
+    <loc>https://joel-x.github.io/blog_jxbs/tags/shortcodes/_index.pt-br/</loc>
     <lastmod>2023-01-04T11:51:36+01:00</lastmod>
   </url><url>
-    <loc>/posts/2020-12-01-r-rmarkdown/</loc>
+    <loc>https://joel-x.github.io/blog_jxbs/posts/2020-12-01-r-rmarkdown/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>/tags/plot/</loc>
+    <loc>https://joel-x.github.io/blog_jxbs/tags/plot/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>/categories/r/</loc>
+    <loc>https://joel-x.github.io/blog_jxbs/categories/r/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>/tags/r-markdown/</loc>
+    <loc>https://joel-x.github.io/blog_jxbs/tags/r-markdown/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>/tags/regression/</loc>
+    <loc>https://joel-x.github.io/blog_jxbs/tags/regression/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>/about/</loc>
+    <loc>https://joel-x.github.io/blog_jxbs/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="us"
-                href="/us/about/"
+                href="https://joel-x.github.io/blog_jxbs/us/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/about/"
+                href="https://joel-x.github.io/blog_jxbs/about/"
                 />
   </url><url>
-    <loc>/contact/</loc>
+    <loc>https://joel-x.github.io/blog_jxbs/contact/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="us"
-                href="/us/contact/"
+                href="https://joel-x.github.io/blog_jxbs/us/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/contact/"
+                href="https://joel-x.github.io/blog_jxbs/contact/"
                 />
   </url><url>
-    <loc>/projects/</loc>
+    <loc>https://joel-x.github.io/blog_jxbs/projects/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="us"
-                href="/us/projects/"
+                href="https://joel-x.github.io/blog_jxbs/us/projects/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/projects/"
+                href="https://joel-x.github.io/blog_jxbs/projects/"
                 />
   </url><url>
-    <loc>/series/</loc>
+    <loc>https://joel-x.github.io/blog_jxbs/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="us"
-                href="/us/series/"
+                href="https://joel-x.github.io/blog_jxbs/us/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/series/"
+                href="https://joel-x.github.io/blog_jxbs/series/"
                 />
   </url>
 </urlset>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Joel Burbano</title>
-    <link>/post/</link>
+    <link>https://joel-x.github.io/blog_jxbs/post/</link>
     <description>Recent content in Posts on Joel Burbano</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Wed, 06 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 06 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://joel-x.github.io/blog_jxbs/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Power BI</title>
-      <link>/post/2023-12-06-power-bi/</link>
+      <link>https://joel-x.github.io/blog_jxbs/post/2023-12-06-power-bi/</link>
       <pubDate>Wed, 06 Dec 2023 00:00:00 +0000</pubDate>
       
-      <guid>/post/2023-12-06-power-bi/</guid>
+      <guid>https://joel-x.github.io/blog_jxbs/post/2023-12-06-power-bi/</guid>
       <description></description>
     </item>
     

@@ -2,44 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Joel Burbano</title>
-    <link>/categories/</link>
+    <link>https://joel-x.github.io/blog_jxbs/categories/</link>
     <description>Recent content in Categories on Joel Burbano</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Thu, 07 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 07 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://joel-x.github.io/blog_jxbs/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Econometría</title>
-      <link>/categories/econometr%C3%ADa/</link>
+      <link>https://joel-x.github.io/blog_jxbs/categories/econometr%C3%ADa/</link>
       <pubDate>Thu, 07 Dec 2023 00:00:00 +0000</pubDate>
       
-      <guid>/categories/econometr%C3%ADa/</guid>
+      <guid>https://joel-x.github.io/blog_jxbs/categories/econometr%C3%ADa/</guid>
       <description></description>
     </item>
     
     <item>
       <title>temas</title>
-      <link>/categoria/temas/</link>
+      <link>https://joel-x.github.io/blog_jxbs/categoria/temas/</link>
       <pubDate>Wed, 04 Jan 2023 23:21:18 +0100</pubDate>
       
-      <guid>/categoria/temas/</guid>
+      <guid>https://joel-x.github.io/blog_jxbs/categoria/temas/</guid>
       <description></description>
     </item>
     
     <item>
       <title>sintaxe</title>
-      <link>/categoria/sintaxe/</link>
+      <link>https://joel-x.github.io/blog_jxbs/categoria/sintaxe/</link>
       <pubDate>Wed, 04 Jan 2023 23:21:06 +0100</pubDate>
       
-      <guid>/categoria/sintaxe/</guid>
+      <guid>https://joel-x.github.io/blog_jxbs/categoria/sintaxe/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R</title>
-      <link>/categories/r/</link>
+      <link>https://joel-x.github.io/blog_jxbs/categories/r/</link>
       <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
       
-      <guid>/categories/r/</guid>
+      <guid>https://joel-x.github.io/blog_jxbs/categories/r/</guid>
       <description></description>
     </item>
     
