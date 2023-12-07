@@ -1,4 +1,4 @@
-baseURL: 
+baseURL: https://joel-x.github.io/blog_jxbs/
 publishDir: docs
 title: Joel Burbano
 theme: hugo-coder
