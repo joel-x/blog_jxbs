@@ -2,11 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://www.example.com/posts/2023-07-30-prueba/</loc>
-    <lastmod>2023-07-30T00:00:00+00:00</lastmod>
+    <loc>http://www.example.com/tags/bi/</loc>
+    <lastmod>2023-12-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://www.example.com/</loc>
-    <lastmod>2023-07-30T00:00:00+00:00</lastmod>
+    <lastmod>2023-12-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="us"
@@ -19,6 +19,31 @@
                 />
   </url><url>
     <loc>http://www.example.com/posts/</loc>
+    <lastmod>2023-12-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.example.com/post/</loc>
+    <lastmod>2023-12-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.example.com/post/2023-12-06-power-bi/</loc>
+    <lastmod>2023-12-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.example.com/posts/2023-12-06-power-bi/</loc>
+    <lastmod>2023-12-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.example.com/tags/</loc>
+    <lastmod>2023-12-06T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="us"
+                href="http://www.example.com/us/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://www.example.com/tags/"
+                />
+  </url><url>
+    <loc>http://www.example.com/posts/2023-07-30-prueba/</loc>
     <lastmod>2023-07-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://www.example.com/authors/</loc>
@@ -58,19 +83,6 @@
   </url><url>
     <loc>http://www.example.com/tags/shortcodes/_index.pt-br/</loc>
     <lastmod>2023-01-04T11:51:36+01:00</lastmod>
-  </url><url>
-    <loc>http://www.example.com/tags/</loc>
-    <lastmod>2023-01-04T11:51:36+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="us"
-                href="http://www.example.com/us/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="http://www.example.com/tags/"
-                />
   </url><url>
     <loc>http://www.example.com/posts/2020-12-01-r-rmarkdown/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>

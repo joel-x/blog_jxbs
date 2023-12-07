@@ -1,0 +1,25 @@
+---
+title: Power BI
+author: Joel Burbano
+date: '2023-12-06'
+slug: []
+categories: []
+tags:
+  - BI
+authors: []
+description: ''
+externalLink: ''
+series: []
+output:
+  blogdown::html_page:
+    toc: false
+---
+
+Pruebas para publicar power bi
+
+
+```{r echo=FALSE, message=FALSE, warning=FALSE, paged.print=FALSE}
+knitr::include_app("https://app.powerbi.com/view?r=eyJrIjoiODE1MjIxYWMtZjVhNC00NWUxLTk0ZWUtNmQ2MzdmMmNmYjUzIiwidCI6IjY4MmE0ZTZhLWE3N2YtNDk1OC1hM2FjLTllMjY2ZDE4YWEzNyIsImMiOjR9")
+```
+
+

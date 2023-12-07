@@ -6,7 +6,25 @@
     <description>Recent content on Joel Burbano</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Sun, 30 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://www.example.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 06 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://www.example.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Power BI</title>
+      <link>http://www.example.com/post/2023-12-06-power-bi/</link>
+      <pubDate>Wed, 06 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/post/2023-12-06-power-bi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Power BI</title>
+      <link>http://www.example.com/posts/2023-12-06-power-bi/</link>
+      <pubDate>Wed, 06 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/posts/2023-12-06-power-bi/</guid>
+      <description>Pruebas para publicar power bi</description>
+    </item>
+    
     <item>
       <title>Estadística Descriptiva</title>
       <link>http://www.example.com/posts/2023-07-30-prueba/</link>
