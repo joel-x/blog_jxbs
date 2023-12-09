@@ -9,6 +9,9 @@ authors: []
 description: ''
 externalLink: ''
 series: []
+output:
+  blogdown::html_page:
+    toc: false
 ---
 
 ```{r setup, include=FALSE}
@@ -40,7 +43,7 @@ keane=pd.read_csv("keane.csv")
 ```
 
 ```{r}
-head(py$keane)
+DT::datatable(head(py$keane))
 ```
 
 

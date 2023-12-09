@@ -11,8 +11,8 @@ markup:
   highlight:
     noClasses: no
 params:
-  clearReading: false
-  sidebarBehavior: 1
+  #clearReading: false
+  #sidebarBehavior: 1
   math: true
   katex: true
   author: Joel Burbano

@@ -9,6 +9,9 @@ authors: []
 description: ''
 externalLink: ''
 series: []
+output:
+  blogdown::html_page:
+    toc: false
 ---
 
 ```{r setup, include=FALSE}
@@ -17,6 +20,8 @@ xaringanExtra::use_clipboard()
 library(prettydoc) #Paquete de tema favorito
 library(reticulate) #Paquete de python en R
 use_python("C:\\Users\\JXBS\\AppData\\Local\\Programs\\Python\\Python312\\python.exe")
+library(kableExtra)
+library(htmltools)
 ```
 
 En este post abordaremos un poco los datos keane obtenidos de `Gretl`
@@ -29,18 +34,30 @@ import pandas as pd
 import matplotlib.pyplot as plt 
 import seaborn as sb
 from scipy import stats
-
 ```
 
 A continuación nos disponemos a visualizar los datos 
 
-```{python}
+```{python include=FALSE}
 keane=pd.read_csv("keane.csv")
 
 ```
 
-```{r}
-head(py$keane)
+
+```{r echo=FALSE}
+DT::datatable(head(py$keane),
+              rownames = F,
+              extensions = 'FixedColumns',
+              options = list(
+                info=F,
+                pageLength=5,
+                autoWidth=T,
+                scrollX=T,
+                paging=F,
+                searching=F,
+                initComplete = DT::JS("function(settings, json) {$(this.api().table().header()).css({'font-size' : '12px','color':'#fff','background-color':'#3C3B3A'});}")
+              )) %>% 
+  DT::formatStyle(names(py$keane), backgroundColor="#949797", color = "#F6FBFB")
 ```
 
 
@@ -60,4 +77,29 @@ Procedemos a gráficar la evolución de salarios separado por color de piel
 sb.scatterplot(data=keane,x="year",y="wage",hue="black")
 ```
 
-En esta grafica evidenciamos que ha aumentado la discriminación
+En esta grafica evidenciamos que a lo largo de los años aumenta la discriminación.
+
+
+Visualicemos lo siguiente: seleccionando sólo las personas que trabajan se realizara un gráfico de la evolución de los salarios separados por la variable `choice`
+
+```{python echo=FALSE}
+sb.scatterplot(data=keane[keane["employ"]==1],x="year", y="wage",hue="choice")
+
+```
+Se observa que la terciarización de la economía ha aumentado las diferencias entre trabajadores cualificados y no cualificados, así como,  entre servicio e industria.
+
+Ahora procedamos al análisis de la variable `educ` para ello primero la Codificaremos de acuerdo a educación básica=1, educación media=2, y educación superior=3.
+
+```{python echo=FALSE}
+keane["educCode"]=np.where(keane["educ"]<=9,1,np.where(keane["educ"]<=12,2,3))
+```
+
+
+Seleccionando solo las personas que trbajan tenemos lo siguiente:
+
+```{python echo=FALSE}
+sb.scatterplot(data=keane[keane["employ"]==1],x="year",y="wage",hue="educCode")
+```
+
+
+
