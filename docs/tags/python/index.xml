@@ -16,7 +16,7 @@
       <description>En este post abordaremos un poco los datos keane obtenidos de Gretl
 Empezaremos por importar las librerias necesarias
 import numpy as npimport pandas as pdimport matplotlib.pyplot as plt import seaborn as sbfrom scipy import statsA continuación nos disponemos a visualizar los datos
-keane=pd.read_csv(&amp;quot;keane.csv&amp;quot;)DT::datatable(head(py$keane))Crearemos etiquetas para las observaciones de acuerdo a “choice” estudiante=1, hogar=2, cualificado=3, no-cualificado=4, servicio=5
+Crearemos etiquetas para las observaciones de acuerdo a “choice” estudiante=1, hogar=2, cualificado=3, no-cualificado=4, servicio=5
 Procedemos a gráficar la evolución de salarios separado por color de piel</description>
     </item>
     
